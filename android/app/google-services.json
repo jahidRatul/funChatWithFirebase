@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "543669800502",
+    "firebase_url": "https://funchat-eb11b.firebaseio.com",
+    "project_id": "funchat-eb11b",
+    "storage_bucket": "funchat-eb11b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543669800502:android:e42b620807616128305297",
+        "android_client_info": {
+          "package_name": "com.darkshadow.fun_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543669800502-7kb9egbci2q9ackf1m57kqfu53726ten.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darkshadow.fun_chat",
+            "certificate_hash": "60d8267b7b8b1fd30029f2ba5cef5ec588e67627"
+          }
+        },
+        {
+          "client_id": "543669800502-d451eu6d36ktem8r01bbmk59jivhicqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2j5P97SpYEwBSfkO6B--vZ-qh-_Fm6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543669800502-d451eu6d36ktem8r01bbmk59jivhicqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
